@@ -1,2 +1,2 @@
 # ChromeExtension+BASE_TEMPLATE
-Chrome Extension Base Template for noobies. Injects a div into any site.
+Chrome Extension Base Template for noobies. Injects HTML and CSS into any site.
